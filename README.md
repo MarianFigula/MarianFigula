@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarianFigula
 - 👀 I’m interested in ...
-- 🌱 Currently learning C and Java
+- 🌱 Currently learning C and JavaScript
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me -> majofigulam3@gmail.com
 
