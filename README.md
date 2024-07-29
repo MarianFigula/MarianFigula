@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarianFigula
 - 👀 I’m interested in programming and many many sports
-- 🌱 Currently learning ...
+- 🌱 Currently learning React
 - 📫 How to reach me -> majofigulam3@gmail.com
 
 <!---
